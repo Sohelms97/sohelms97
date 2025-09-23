@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **CSE Graduate** from University of Asia Pacific (CGPA: 3.82)  
+- 🎓 **CSE Graduate** from University of Asia Pacific (CGPA: 3.82/4.0)  
 - 💡 Passionate about **problem-solving, software engineering, and AI in education**  
 - 🌱 Currently working on **e-traceability systems at Farmers Market Asia**  
 - 📊 Thesis: *Optimizing Educational Trajectories: AI Application for Tailored Student Development*  
@@ -32,11 +32,11 @@
 
 ### 💼 Experience & Current Status  
 
-- 🚀 **Tech Intern @ Farmers Market Asia (2025 - Present)**  
+- 🚀 **Tech Intern @ Farmers Market Asia (September 2025 - Present)**  
   - Working on **e-traceability systems** to track investments, products, and supply chains.  
   - Contributing to **crowdfunding-based product distribution models** for global markets.  
 
-- 🎓 **Researcher @ University of Asia Pacific (2024 - 2025)**  
+- 🎓 **UnderGrad Thesis @ University of Asia Pacific (2024 - 2025)**  
   - Built a machine learning model to **predict at-risk students** using academic data.  
   - Focused on **AI-powered educational trajectory optimization**.  
   - Tools: Python, Scikit-learn, Pandas, Jupyter  
