@@ -1,68 +1,68 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="160" />
 </div>
 
-###
+---
 
-<div align="center">
+<h1 align="center">Hi, I'm Sohel 👋</h1>
+<h3 align="center">A Curious Learner • Developer • Explorer</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/md-sohel-rahman-64b55b53/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="twitter.com/mdsohel.97" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://twitter.com/mdsohel_97" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
   </a>
   <a href="https://www.facebook.com/mdsohel.97/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 👨‍💻 About Me  
+- 🎓 Computer Science & Engineering Graduate from **University of Asia Pacific**  
+- 💡 Passionate about **problem-solving, software engineering, and AI**  
+- 🌱 Currently exploring **Python, Django, and Cloud Computing**  
+- 📸 In free time: I **travel, capture moments, and tell stories through pictures**  
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🛠 Tech Stack  
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva" />
+</p>
 
-<br clear="both">
+---
 
-<p align="left">I'm Sohel from Satkania, living in Dhaka.<br><br>- 🔭 I’m currently a student at University of Asia Pacific<br>- 📚 Pursuing my Bachelors Degree in Computer Science and Engineering.<br>- ⚡ In my free time I travel and capture the beautiful Moments.</p>
+### 🔥 GitHub Stats  
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohelms97&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelms97&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🚀 Fun Add-ons  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohelms97&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### ✨ Quote I Live By  
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="FB"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
+---
