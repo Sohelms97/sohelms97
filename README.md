@@ -22,10 +22,29 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Computer Science & Engineering Graduate from **University of Asia Pacific**  
-- 💡 Passionate about **problem-solving, software engineering, and AI**  
-- 🌱 Currently exploring **Python, Django, and Cloud Computing**  
+- 🎓 **CSE Graduate** from University of Asia Pacific (CGPA: 3.82)  
+- 💡 Passionate about **problem-solving, software engineering, and AI in education**  
+- 🌱 Currently working on **e-traceability systems at Farmers Market Asia**  
+- 📊 Thesis: *Optimizing Educational Trajectories: AI Application for Tailored Student Development*  
 - 📸 In free time: I **travel, capture moments, and tell stories through pictures**  
+
+---
+
+### 💼 Experience & Current Status  
+
+- 🚀 **Tech Intern @ Farmers Market Asia (2025 - Present)**  
+  - Working on **e-traceability systems** to track investments, products, and supply chains.  
+  - Contributing to **crowdfunding-based product distribution models** for global markets.  
+
+- 🎓 **Researcher @ University of Asia Pacific (2024 - 2025)**  
+  - Built a machine learning model to **predict at-risk students** using academic data.  
+  - Focused on **AI-powered educational trajectory optimization**.  
+  - Tools: Python, Scikit-learn, Pandas, Jupyter  
+
+- 🎤 **Event Organizer & Host**  
+  - Hosted and managed events for the **Math Club of UAP**, including Math Fest 2.0.  
+  - Organized **Rag Day & Farewell Ceremony (Durnibar-48)** with 250+ participants.  
+  - Experience in **budgeting, sponsorship, and program coordination**.  
 
 ---
 
